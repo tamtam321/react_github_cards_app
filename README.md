@@ -1,3 +1,13 @@
+# My Description
+
+I am interested in React and started to do some hobby project.
+
+* Github cards app get an input (github username) and ask down it's card.
+
+# _________________________________________________________________________________
+
+# Default Readme by react
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
